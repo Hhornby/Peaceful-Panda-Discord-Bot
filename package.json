@@ -1,0 +1,14 @@
+{
+  "name": "peacefulpanda-bot",
+  "version": "1.0.0",
+  "description": "Discord Chat Filter Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Daisy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
